@@ -4,3 +4,4 @@
 *.runs
 *.srcs/*/*/*/ip
 *.srcs/*/*/*/ipshared
+*.log

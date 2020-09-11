@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# 
+# Start of session at: Thu Sep 03 15:17:58 2020
+# Process ID: 8516
+# Current directory: C:/Users/zacharyheil/Desktop/lab1-solution/base-soc/base-soc.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/zacharyheil/Desktop/lab1-solution/base-soc/base-soc.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/zacharyheil/Desktop/lab1-solution/base-soc/base-soc.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

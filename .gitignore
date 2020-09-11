@@ -1,0 +1,6 @@
+.DS_Store
+*.xpr
+*.cache
+*.runs
+*.srcs/*/*/*/ip
+*.srcs/*/*/*/ipshared
